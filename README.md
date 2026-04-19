@@ -1,5 +1,7 @@
 # 📊 Loan Analysis Dashboard (Power BI Project)
 
+🚀 Actively seeking Data Analyst opportunities | Open to work
+
 ## 🔍 Overview
 
 This project presents a comprehensive **Loan Analysis Dashboard** built using Power BI. It provides insights into loan application trends, sanction rates, disbursement performance, and recovery efficiency.
